@@ -105,7 +105,7 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 - **`analyze_predictions.py`** - Analysis script
 - **`README.md`** - Project overview and submission guide
 - **`README_MODEL.md`** - Detailed model documentation
-- **`FINAL_GUIDE.md`** - Original guide file mirrored by this README for repository display
+- **`FINAL_GUIDE.md`** - Original guide file used to create this README
 
 ### Data Files (in `data/` folder)
 - Historical World Cup data from Fjelstul database
