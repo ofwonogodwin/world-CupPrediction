@@ -103,8 +103,9 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 - **`submission.csv`** - Your Zindi submission file ✅
 - **`world_cup_predictor_v2.py`** - Main prediction model
 - **`analyze_predictions.py`** - Analysis script
+- **`README.md`** - Project overview and submission guide
 - **`README_MODEL.md`** - Detailed model documentation
-- **`FINAL_GUIDE.md`** - This guide
+- **`FINAL_GUIDE.md`** - Source guide mirrored in this README
 
 ### Data Files (in `data/` folder)
 - Historical World Cup data from Fjelstul database
