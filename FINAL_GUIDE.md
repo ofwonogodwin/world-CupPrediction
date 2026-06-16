@@ -153,7 +153,7 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 
 ```bash
 # Navigate to directory
-cd "/home/godwin-ofwono/Desktop/World Cup Hack"
+cd /path/to/world-CupPrediction
 
 # Activate virtual environment
 source venv/bin/activate
