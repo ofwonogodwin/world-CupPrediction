@@ -153,7 +153,7 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 
 ```bash
 # Navigate to directory
-cd /path/to/world-CupPrediction
+cd /path/to/project
 
 # Activate virtual environment
 source venv/bin/activate

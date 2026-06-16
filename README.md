@@ -105,7 +105,7 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 - **`analyze_predictions.py`** - Analysis script
 - **`README.md`** - Project overview and submission guide
 - **`README_MODEL.md`** - Detailed model documentation
-- **`FINAL_GUIDE.md`** - Source guide mirrored in this README
+- **`FINAL_GUIDE.md`** - Original guide that served as the basis for this README
 
 ### Data Files (in `data/` folder)
 - Historical World Cup data from Fjelstul database
@@ -154,7 +154,7 @@ Your submission file **`submission.csv`** is ready to upload to Zindi!
 
 ```bash
 # Navigate to directory
-cd /path/to/world-CupPrediction
+cd /path/to/project
 
 # Activate virtual environment
 source venv/bin/activate
